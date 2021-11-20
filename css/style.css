@@ -11,7 +11,6 @@
     text-align: center;
     width: 35cm;
     height: 300px;
-    justify-content: center;
     margin-left: 5cm;
     color: white;
 }
@@ -29,9 +28,16 @@
 .unimportant {
     text-align: center;
 }
-.important > h4 {
-    text-align: center;
+.unimportant > h8 {
+    font-size: x-large;
 }
-.column {
-    float: left;
+.design {
+    display: none;
 }
+.development {
+    display: none;
+}
+.product {
+    display: none;
+}
+
