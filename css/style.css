@@ -7,7 +7,7 @@
 .bg-image > h1 {
     font-size: 300%;
 }
-.wrapper {
+.bg-image2 {
     text-align: center;
 }
 .null {
@@ -28,4 +28,6 @@
 .input > input {
     width: 30%;
     height: 20ch;
+    border: 2px solid black;
+
 }
