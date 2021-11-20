@@ -4,3 +4,9 @@
 .bg-image {
     height: 600px;
 }
+.bg-image > h1 {
+    font-size: 300%;
+}
+.wrapper {
+    text-align: center;
+}
