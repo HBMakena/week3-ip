@@ -9,6 +9,10 @@
 }
 .bg-image2 {
     text-align: center;
+    width: 35cm;
+    height: 300px;
+    justify-content: center;
+    margin-left: 5cm;
 }
 .null {
     font-size: xx-large;
