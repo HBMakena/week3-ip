@@ -20,4 +20,5 @@
 .block > input {
     width: 20%;
     padding: .5rem 8rem;
+    border: 2px solid black;
 }
