@@ -38,8 +38,11 @@
 }
 .important {
     text-align: center;
-    margin-left: 9cm;
+    margin-left: 7cm;
 }
 .unimportant {
+    text-align: center;
+}
+.important > h4 {
     text-align: center;
 }
