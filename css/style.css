@@ -13,6 +13,7 @@
     height: 300px;
     justify-content: center;
     margin-left: 5cm;
+    color: white;
 }
 .null {
     font-size: xx-large;
@@ -30,8 +31,14 @@
     text-align: center;
 }
 .input > input {
-    width: 30%;
+    width: 40%;
     height: 20ch;
     border: 2px solid black;
-
+    ;
+}
+.important {
+    text-align: center;
+}
+.unimportant {
+    text-align: center;
 }
