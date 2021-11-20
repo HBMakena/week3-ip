@@ -22,20 +22,6 @@
 .block {
     text-align: center
 } 
-.block > input {
-    width: 20%;
-    padding: .5rem 8rem;
-    border: 2px solid black;
-}
-.input {
-    text-align: center;
-}
-.input > input {
-    width: 40%;
-    height: 20ch;
-    border: 2px solid black;
-    ;
-}
 .important {
     text-align: center;
     margin-left: 7cm;
@@ -45,4 +31,7 @@
 }
 .important > h4 {
     text-align: center;
+}
+.column {
+    float: left;
 }
