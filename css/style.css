@@ -22,3 +22,10 @@
     padding: .5rem 8rem;
     border: 2px solid black;
 }
+.input {
+    text-align: center;
+}
+.input > input {
+    width: 30%;
+    height: 20ch;
+}
