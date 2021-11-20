@@ -17,6 +17,9 @@
 .null {
     font-size: xx-large;
     text-align: center;
+    height: 10cm;
+    margin-left: 5cm;
+    width: 35cm;
 }  
 .block {
     text-align: center
