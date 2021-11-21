@@ -17,7 +17,7 @@
 .null {
     font-size: xx-large;
     text-align: center;
-    height: 10cm;
+    height: 13cm;
     width: 35cm;
     margin: 4cm;
 }  
@@ -46,4 +46,8 @@
 }
 .product {
     display: none;
+}
+.message {
+    height: 5cm;
+    margin: 1cm;
 }
