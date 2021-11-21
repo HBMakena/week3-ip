@@ -30,6 +30,8 @@
 }
 .unimportant {
     text-align: center;
+    margin-left: 5cm;
+    width: 35cm;
 }
 .unimportant > h8 {
     font-size: x-large;
@@ -43,4 +45,3 @@
 .product {
     display: none;
 }
-
