@@ -18,7 +18,6 @@
     font-size: xx-large;
     text-align: center;
     height: 10cm;
-    margin-left: 5cm;
     width: 35cm;
 }  
 .block {
@@ -30,7 +29,6 @@
 }
 .unimportant {
     text-align: center;
-    margin-left: 5cm;
     width: 35cm;
 }
 .unimportant > h8 {
