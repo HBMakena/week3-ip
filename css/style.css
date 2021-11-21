@@ -19,20 +19,21 @@
     text-align: center;
     height: 13cm;
     width: 35cm;
-    margin: 4cm;
+    margin: 1cm;
+    margin-left: 4cm;
 }  
 .block {
     text-align: center
 } 
 .important {
     text-align: center;
-    margin: 1cm
+    margin: .5cm;
 }
 .unimportant {
     text-align: center;
     width: 35cm;
     margin: 1cm;
-    margin-left: 5cm;
+    margin-left: 4cm;
 
 }
 .unimportant > h8 {
@@ -54,4 +55,7 @@
 }
 .row {
     margin: .5cm;
+}
+.management {
+    text-align: right;
 }
