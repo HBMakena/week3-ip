@@ -45,33 +45,42 @@
 }
 .design {
     display: none;
+    
 }
 .development {
     display: none;
+
 }
-.product {
+.management {
     display: none;
+
 }
 .message {
     height: 8cm;
-    margin: 1cm;
+    margin: .5cm;
     width: 20cm;
 }
 .row {
     margin: .5cm;
 }
-.management {
-    margin-left: 12cm;
+.manage {
+    margin-left: 9cm;
 }
 .devel {
-    margin-left: 9cm;
+    margin-left: 9.5cm;
 }
 .des {
-    margin-left: 6cm;
+    margin-left: 9cm;
 }
 .col-md-3 > h5 {
-    margin-left: 6cm;
+    margin-left: 9cm;
 }
 .col-md-3 > h6 {
+    margin-left: 9.5cm;
+}
+.long {
     margin-left: 9cm;
+}
+.submit {
+    margin-bottom: 1cm;
 }

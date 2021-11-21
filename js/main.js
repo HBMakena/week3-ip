@@ -21,13 +21,26 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $(".management").click(function(){
-        $(".management").hide();
-        $(".product").toggle();
+    $(".manage").click(function(){
+        $(".manage").hide();
+        $(".management").toggle();
     });
-    $(".product").click(function(){
-        $(".management").show();
-        $(".product").hide();
+    $(".management").click(function(){
+        $(".manage").show();
+        $(".management").hide();
     });
 });
-
+$(document).ready(function(){
+    $(".submit").click(function(){
+        var name = $(".name").val();
+        var email = $(".email").val();
+        var message = $(".massage").val();
+        
+        if(name == '' || email == '' || message == ''){
+            alert("fill in the blanks");
+        }
+        else {
+            alert("we have received your message.Thank you for reaching out to us");
+        }
+    })
+});
