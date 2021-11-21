@@ -3,6 +3,10 @@
 }
 .bg-image {
     height: 600px;
+    margin-left: 4cm;
+    width: 35cm;
+    margin: .5cm;
+    color: white;
 }
 .bg-image > h1 {
     font-size: 300%;
