@@ -60,7 +60,8 @@
 .message {
     height: 8cm;
     margin: .5cm;
-    width: 20cm;
+    width: 26cm;
+    background-color: transparent;
 }
 .row {
     margin: .5cm;
@@ -90,4 +91,13 @@
 }
 .footer {
     margin: .5cm;
+}
+.footer > p {
+    margin: .5cm;
+}
+.name {
+    background-color: transparent;
+}
+.email {
+    background-color: transparent;
 }
